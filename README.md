@@ -9,7 +9,7 @@ English | [简体中文](./README-CN.md) | [Español ](./README-ES.md) | [Ελλ
 We are so thankful for your support. This repository always shows that people are all together against unfortunate happening around the world.
 As GitHub revised some of the previous restrictions, we decided to reduce this repository's activity. Of course, it does not mean that we agree with the sanctions and the GitHub.
 We will post a conclusion and explain more soon, please wait for that.
-The campaign will be terminated **Thursday 1 August 23:59 (Tehran Time GMT +4:30)**. After this time we won't merge any new PR. 
+The campaign will be terminated **Thursday 1 August 23:59 (Tehran Time GMT +4:30)**. After this time we won't merge any new PR.
 Once again thanks for your support and kindness
 Please wait for our final conclusion
 
@@ -522,7 +522,7 @@ You can:
 - Liu Hui Hao from China 🇨🇳 ([geminate](https://github.com/geminate))
 - LiuBo from China 🇨🇳 ([LiuBo](https://github.com/404cn))
 - Lokimonoton from Indonesia 🇮🇩 ([lokimonoton](https://github.com/lokimonoton))
-- Long Gui from China 🇨🇳([10ngui](https://github.com/10ngui)) 
+- Long Gui from China 🇨🇳([10ngui](https://github.com/10ngui))
 - Lory from the United States 🇺🇸 and Iran 🇮🇷 ([Lorymi](https://github.com/Lorymi))
 - Louay Al-osh from Syria 🇸🇾 ([lalosh](https://github.com/lalosh))
 - Louis Raymond from Indonesia 🇮🇩 ([ccxex29](https://github.com/ccxex29))
@@ -895,3 +895,4 @@ You can:
 - Zhuo Y. Chen from China 🇨🇳([wizcas](https://github.com/wizcas))
 - Zoran Young from China 🇨🇳([Zoranner](https://github.com/zoranner))
 - Şahin Mersin from Turkey 🇹🇷 ([electrocoder](https://github.com/electrocoder))
+- Duan Zhaoyang from China 🇨🇳 ([ddzy](https://github.com/ddzy))
